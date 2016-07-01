@@ -15,9 +15,6 @@ Solution
 - Example mostly based on the [ConnectivityManager](https://developer.android.com/reference/android/net/ConnectivityManager.html) which allows get state of network connectivity
 - Register the [BroadcastReceiver](https://developer.android.com/reference/android/content/BroadcastReceiver.html) on action: ```<action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>``` for handle any change of connectivity
 
--> This is centered Text <-
-
 Screen
 ---------
-
-<img style="display: block; margin-left: auto; margin-right: auto;" src="screen_android.png">
+![Screen](screen_android.png)
